@@ -1,0 +1,2 @@
+rootProject.name = "TP5EXO8"
+include ':app'
